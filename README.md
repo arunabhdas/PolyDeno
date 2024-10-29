@@ -1,2 +1,2 @@
-# Polymatic
-Polymatic AI
+# PolyDeno
+Deno for fun and profit
